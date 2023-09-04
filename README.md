@@ -1,5 +1,5 @@
 # TypingGame
-MyFirst Game Project 2018
+Game Project 2018
 
 Typer Ghost: Minigame with typing mechanics
 Features:
